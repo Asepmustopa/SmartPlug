@@ -7,13 +7,12 @@ This project is a fully custom **IoT Smart Plug** designed for remote electrical
 
 Unlike typical DIY smart plugs using ready-made relay modules, this project includes the complete engineering workflow:
 
-- Electronic schematic design
-- PCB layout
+- PCB Design using Autodesk EAGLE
 - Component selection
-- 3D enclosure design
+- 3D Case Design with Onshape
 - Mechanical assembly
 - Prototype fabrication
-- Firmware development using ESP32
+- Firmware development using ESP8266 (Wemod D1 Mini)
 
 The project demonstrates end-to-end embedded product development from concept to working hardware.
 
