@@ -5,7 +5,7 @@
 
 This project is an IoT Smart Plug designed specifically for remote control of electrical outlets. In the development of this project, it was used to control a Hexos fan based on room temperature and humidity conditions.
 
-This project was developed independently for industrial needs. The following are the tools I used:
+This project is an independently developed solution to help industries monitor environmental conditions in specific rooms in real time. The following tools and technologies were used in its development:
 
 - PCB Design using Autodesk EAGLE
 - Component selection
