@@ -26,6 +26,7 @@ The project demonstrates end-to-end embedded product development from concept to
 ### 3D Enclosure
 
 ![PCB Layout](images/3DCasing.jpeg)
+![PCB Layout](images/3D.jpeg)
 
 ### Results
 
