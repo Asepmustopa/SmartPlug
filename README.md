@@ -21,6 +21,6 @@ The project demonstrates end-to-end embedded product development from concept to
 
 ## PCB Layout
 
-![PCB Layout](images/Layout PCB.jpeg)
+![PCB Layout](images/LayoutPCB.jpeg)
 
 ---
