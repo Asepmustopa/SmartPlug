@@ -17,3 +17,10 @@ This project is an independently developed solution to help industries monitor e
 The project demonstrates end-to-end embedded product development from concept to working hardware.
 
 ---
+## Project Preview
+
+## PCB Layout
+
+![PCB Layout](images/Layout PCB.jpeg)
+
+---
