@@ -30,6 +30,7 @@ The project demonstrates end-to-end embedded product development from concept to
 
 ### Results
 
+![PCB Layout](images/PCBFisik.jpeg)
 ![PCB Layout](images/Hasil.jpeg)
 
 ---
