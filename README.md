@@ -19,8 +19,16 @@ The project demonstrates end-to-end embedded product development from concept to
 ---
 ## Project Preview
 
-## PCB Layout
+### PCB Layout
 
 ![PCB Layout](images/LayoutPCB.jpeg)
+
+### 3D Enclosure
+
+![PCB Layout](images/3DCasing.jpeg)
+
+### Results
+
+![PCB Layout](images/Hasil.jpeg)
 
 ---
